@@ -1,0 +1,25 @@
+{
+  "name": "let-us-connect",
+  "version": "1.0.0",
+  "description": "NoSQL Challenge: Social Network API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chlovanna/Let-us-connect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chlovanna/Let-us-connect/issues"
+  },
+  "homepage": "https://github.com/Chlovanna/Let-us-connect#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  }
+}
