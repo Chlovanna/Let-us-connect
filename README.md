@@ -50,4 +50,4 @@ The MIT License is a permissive free software license originating at the Massach
 compatibility.
 **Contributors**
 - Ashley Lawrence 
-- image.png
+![This is a cat] (image.png)
