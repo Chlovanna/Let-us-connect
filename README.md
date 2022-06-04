@@ -1,14 +1,14 @@
 # Let-us-connect
 NoSQL Challenge: Social Network API
 
-**Table of Contents**
- ## User Story
- ## Acceptance Criteria
- ## Demo
- ## Installation
- ## Usage
- ## License
- ## Contributors
+## Table of Contents
+ - User Story
+ - Acceptance Criteria
+ - Demo
+ - Installation
+ - Usage
+ - License
+ - Contributors
 
 **User Story**
  *AS A social media startup*
