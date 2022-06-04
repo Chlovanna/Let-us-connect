@@ -27,7 +27,7 @@ NoSQL Challenge: Social Network API
 - THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
 **Demo**
-
+https://vimeo.com/717141774/2981ab8663
 
 **Installation**
 - npm install
@@ -50,4 +50,4 @@ The MIT License is a permissive free software license originating at the Massach
 compatibility.
 **Contributors**
 - Ashley Lawrence 
-![This is a cat] (image.png)
+
