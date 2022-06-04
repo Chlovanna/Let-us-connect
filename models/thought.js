@@ -45,13 +45,13 @@ const thoughtSchema = new Schema(
       },
     
 
-    rections: [
+      
+    reactions: [
       reactionSchema
     ],
   },
   {
     toJSON: {
-      virtuals: true,
       getters: true
     },
     id: false,
