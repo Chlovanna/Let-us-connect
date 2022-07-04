@@ -36,15 +36,12 @@ https://vimeo.com/717141774/2981ab8663
 - npm i mongoose
 
 **Usage**
-- Javascript
-- MongoDB
-- Insomnia
-- Node.js
     - npm packages
         - express.js
         - mongoose
 
 **Technologies**
+
 ![Javascript](https://img.shields.io/badge/-JavaScript-f7df1e?style=plastic&logo=javascript&logoColor=black)
 
 ![MongoDb](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
@@ -54,7 +51,8 @@ https://vimeo.com/717141774/2981ab8663
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
         
 **License**
-MIT
+
+- MIT
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT) in the late 1980s. As a permissive license, it puts only very limited restriction on reuse and has, therefore, high license 
 compatibility.
