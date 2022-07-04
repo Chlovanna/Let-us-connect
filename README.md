@@ -2,13 +2,14 @@
 NoSQL Challenge: Social Network API
 
 ## Table of Contents
- - User Story
- - Acceptance Criteria
- - Demo
- - Installation
- - Usage
- - License
- - Contributors
+ - [User Story](#user-story)
+ - [Acceptance Criteria](#acceptance-criteria)
+ - [Demo](#demo)
+ - [Installation](#installation)
+ - [Usage](#usage)
+ - [Technologies](#technologies)
+ - [License](#license)
+ - [Contributors](#contributors)
 
 **User Story**
  *AS A social media startup*
@@ -42,6 +43,15 @@ https://vimeo.com/717141774/2981ab8663
     - npm packages
         - express.js
         - mongoose
+
+**Technologies**
+![Javascript](https://img.shields.io/badge/-JavaScript-f7df1e?style=plastic&logo=javascript&logoColor=black)
+
+![MongoDb](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white)
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-40000BF?style=plastic&logo=insomnia&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
         
 **License**
 MIT
